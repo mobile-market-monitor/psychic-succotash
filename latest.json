@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.0.85",
-  "latestVersionCode": 10850,
+  "latestVersion": "1.0.86",
+  "latestVersionCode": 10860,
   "url": "https://play.google.com/store/apps/details?id=com.mobilemarketmonitor.XING",
   "releaseNotes": [
-    "- Automated Mobility Monitor and Travel Survey"
+    "This update include a number of bug fixes and improvements, including minor corrections on the Chinese language contents, faster loading times for the trip diary among others.",
+    "Also, never miss an update again: We’ve integrated something to let you know if your app is outdated."
   ]
 }
