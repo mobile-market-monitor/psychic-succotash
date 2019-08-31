@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.0.86",
-  "latestVersionCode": 10860,
+  "latestVersion": "1.0.87",
+  "latestVersionCode": 10870,
   "url": "https://play.google.com/store/apps/details?id=com.mobilemarketmonitor.XING",
   "releaseNotes": [
-    "This update include a number of bug fixes and improvements, including minor corrections on the Chinese language contents, faster loading times for the trip diary among others.",
-    "Also, never miss an update again: We’ve integrated something to let you know if your app is outdated."
+    "Addressed an issue that was causing increased network activity"
   ]
 }
